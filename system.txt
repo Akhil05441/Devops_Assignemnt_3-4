@@ -1,0 +1,4 @@
+Linux AKHIL 6.6.87.2-microsoft-standard-WSL2 #1 SMP PREEMPT_DYNAMIC Thu Jun  5 18:30:46 UTC 2025 x86_64 x86_64 x86_64 GNU/Linux
+               total        used        free      shared  buff/cache   available
+Mem:           11814        3672        7442           4         902        8142
+Swap:           3072           0        3072
